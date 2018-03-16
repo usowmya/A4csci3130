@@ -45,6 +45,10 @@ public class ExpressoUItest {
     }
 
     /**
+     * Pre requiste: there should not be any data in the firebase table
+     */
+
+    /**
      * Checks for the creation of the contact 'Sowmya'
      */
 
